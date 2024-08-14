@@ -1,0 +1,53 @@
+{
+    "pizzas": [
+      {
+        "id": 1,
+        "name": "Margherita",
+        "description": "Classic margherita pizza with fresh mozzarella, tomatoes, and basil.",
+        "price": 199,
+        "imageUrl": "src/assets/item1.jpg",
+        "details": "Choose your Melts and get FREE Pepsi Zero Sugar* or regular Pepsi basis availability."
+      },
+      {
+        "id": 2,
+        "name": "Pepperoni",
+        "description": "A delicious pepperoni pizza topped with mozzarella cheese.",
+        "price": 299,
+        "imageUrl": "src/assets/item2.jpg",
+        "details": "Choose your Melts and get FREE Pepsi Zero Sugar* or regular Pepsi basis availability."
+      },
+      {
+        "id": 3,
+        "name": "BBQ Chicken",
+        "description": "Grilled chicken, BBQ sauce, red onions, and cilantro.",
+        "price": 399,
+        "imageUrl": "src/assets/item3.jpg",
+        "details": "Choose your Melts and get FREE Pepsi Zero Sugar* or regular Pepsi basis availability."
+      },
+      {
+        "id": 4,
+        "name": "Veggie Delight",
+        "description": "A healthy mix of bell peppers, onions, olives, and mushrooms.",
+        "price": 499,
+        "imageUrl": "src/assets/item4.jpg",
+        "details": "Choose your Melts and get FREE Pepsi Zero Sugar* or regular Pepsi basis availability."
+      },
+      {
+        "id": 5,
+        "name": "Hawaiian",
+        "description": "A tropical pizza with ham, pineapple, and extra cheese.",
+        "price": 599,
+        "imageUrl": "src/assets/item5.jpg",
+        "details": "Choose your Melts and get FREE Pepsi Zero Sugar* or regular Pepsi basis availability."
+      },
+      {
+        "id": 6,
+        "name": "Meat Lover's",
+        "description": "Loaded with pepperoni, sausage, ham, and bacon.",
+        "price": 699,
+        "imageUrl": "src/assets/item6.jpg",
+        "details": "Choose your Melts and get FREE Pepsi Zero Sugar* or regular Pepsi basis availability."
+      }
+    ]
+  }
+  
