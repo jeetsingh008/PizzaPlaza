@@ -53,7 +53,7 @@ const Catalogue = () => {
   const [basket, setBasket] = useState([]);
 
   useEffect(() => {
-    axios.get("http://localhost:3000/pizzas").then((res) => {
+    axios.get("https://pizzaplaza.onrender.com/pizzas").then((res) => {
       setMyData(res.data);
     });
   }, []);
